@@ -4,6 +4,12 @@
 
 <img src="https://res.cloudinary.com/dnxa7tvty/image/upload/v1693584268/dogfetch/mdp_dogfetch_name_logo.png" width="300" />
 
+Check out the live site here: https://dogmatch-mdpolky.vercel.app/
+
+This website is for demonstration purposes only, please look up shelters in your area to adopt a dog in need.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
