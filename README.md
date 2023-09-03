@@ -1,3 +1,9 @@
+## Dogmatch
+
+### demo website that connects dog-lovers with shelter dogs
+
+<img src="https://res.cloudinary.com/dnxa7tvty/image/upload/v1693584268/dogfetch/mdp_dogfetch_name_logo.png" width="300" />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
