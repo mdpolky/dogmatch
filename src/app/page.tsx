@@ -1,9 +1,9 @@
 "use client";
 import React, { useState } from "react";
-import fetchClient from "../client";
+import fetchClient from "./utils/client";
 import { useRouter } from "next/navigation";
 
-const Login: React.FC = () => {
+function Login() {
   //name and email should be "" but let's pre-fill to allow for easy demos
   const [name, setName] = useState("Demo Account");
   const [email, setEmail] = useState("ClickLogin@gmail.com");
@@ -81,7 +81,7 @@ const Login: React.FC = () => {
       </div>
     </div>
   );
-};
+}
 
 export default function Home() {
   return (
